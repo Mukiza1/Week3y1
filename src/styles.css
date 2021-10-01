@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  background-color: aliceblue;
+}
+
+h1 {
+  background-color: #ffcc00;
+  border-radius: 5px;
+  text-align: center;
+}
